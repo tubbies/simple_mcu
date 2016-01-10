@@ -5,9 +5,7 @@
 * Description - 
 *
 * Author(s): 
-*         Jinmo Kwon <jinmo.kwon@lge.com>
-*
-* Copyright (C) 2016 LG Electronics, Inc.
+*         Jinmo Kwon 
 *
 * Change Log
 * - 2016.01.08 Initially composed 
