@@ -1,5 +1,6 @@
 `include "uvm_macros.svh"
 import uvm_pkg::*;
+// refer http://www.edaplayground.com/x/296 and youtube video https://www.youtube.com/watch?v=Qn6SvG-Kya0
 module tb_alu_core;
 //clock
 /*{{{*/ // clock / reset generation
