@@ -11,7 +11,11 @@ parameter  I_BW    =   4   ;
 `include "alu_cmd_agent.svh"
 `include "alu_cmd_env.svh"
 `include "alu_cmd_seq.svh"
+`include "alu_res_if.svh"
+`include "alu_res_pkt.svh"
+
 `include "alu_test.svh"
+// https://www.chipverify.com/uvm/uvm-introduction
 // refer http://www.edaplayground.com/x/296 and youtube video https://www.youtube.com/watch?v=Qn6SvG-Kya0
 module tb_alu_core;
 //clock
